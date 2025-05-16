@@ -1,0 +1,33 @@
+// ARCHIVO GENERADO AUTOMATICAMENTE
+// POR: ASD++
+
+"Player.KillSoundDefaultDing"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+    {
+        "wave" ")ui/killsound.wav"
+        "wave" ")ui/killsound2.wav"
+        "wave" ")ui/killsound3.wav"
+        "wave" ")ui/killsound4.wav"
+        "wave" ")ui/killsound5.wav"
+        "wave" ")ui/killsound6.wav"
+        "wave" ")ui/killsound7.wav"
+        "wave" ")ui/killsound8.wav"
+        "wave" ")ui/killsound9.wav"
+        "wave" ")ui/killsound10.wav"
+        "wave" ")ui/killsound11.wav"
+        "wave" ")ui/killsound12.wav"
+        "wave" ")ui/killsound13.wav"
+        "wave" ")ui/killsound14.wav"
+        "wave" ")ui/killsound15.wav"
+        "wave" ")ui/killsound16.wav"
+        "wave" ")ui/killsound17.wav"
+        "wave" ")ui/killsound18.wav"
+        "wave" ")ui/killsound19.wav"
+        "wave" ")ui/killsound20.wav"
+    }
+}
