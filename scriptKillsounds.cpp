@@ -27,6 +27,7 @@ void creadorDeArchivos3000(bool IsMvM, int nKillsounds) {
 
     //COMENTARIO
     Archivo<<"// ARCHIVO GENERADO AUTOMATICAMENTE"<<endl;
+    Archivo<<"// SCRIPT: https://github.com/alej-suescun/Multiple-Killsounds-Script-Generator"<<endl;
     Archivo<<"// POR: ASD++"<<endl<<endl;
 
     //LO IMPORTANTE

@@ -1,4 +1,5 @@
 // ARCHIVO GENERADO AUTOMATICAMENTE
+// SCRIPT: https://github.com/alej-suescun/Multiple-Killsounds-Script-Generator
 // POR: ASD++
 
 "Player.KillSoundDefaultDing"
